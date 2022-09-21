@@ -1,0 +1,8 @@
+Microservices in Spring boot One sample example of -  movie catalog
+
+3 separeted project create and run on with diff. port is'd
+-movie catalog
+-movie info
+-rating data
+
+and after creating they communicate together and run in one project 
